@@ -1,6 +1,6 @@
 <h2 align="center">Hello there ⚔️, I'm Matheus.</h2>
 
-<img src="grogu.gif" width="280px" align="right" style="margin-right:0px">
+<img src="grogu.gif" width="260px" align="right" style="margin-right:0px">
 
 - 🎓 I'm master student of computer science at Federal University of Rio Grande do Sul
 - 👨‍🎓 I'm bachelor in computer science Federal University of Fronteira Sul
