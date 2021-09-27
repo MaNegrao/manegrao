@@ -7,5 +7,6 @@
 - 🔭 I'm volunteer in the program [PRACTICE](https://github.com/practice-uffs)
 - 🌱 I'm currently learning about VR, AR and haptics 
 - 🚗 I'm a racing simulator enthusiast and passionate about Star Wars
+- 🎴 I'm Pokémon TCG Collector and Player
 
 ![](https://github-readme-stats.vercel.app/api?username=manegrao&show_icons=true&theme=tokyonight)
