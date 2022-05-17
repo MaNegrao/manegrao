@@ -2,11 +2,13 @@
 
 <img src="grogu.gif" width="260px" align="right" style="margin-right:0px">
 
-- 🎓 I'm master student of computer science at Federal University of Rio Grande do Sul
-- 👨‍🎓 I'm bachelor in computer science Federal University of Fronteira Sul
-- 🔭 I'm volunteer in the program [PRACTICE](https://github.com/practice-uffs)
-- 🌱 I'm currently learning about VR, AR applied into medical environments 
-- 🚗 I'm a racing simulator enthusiast and passionate about Star Wars
+- 🎓 I'm a masters student in Computer Sciente at PPGC-UFRGS.
+- 👨‍🎓 I have a BSc degree in Computer Science from Federal University of Fronteira Sul.
+- 🤙 My area of research are Human Computer Interaction and Mixed Reality.
+- 📑 My current research focuses on a MR environment for Laparoscopy Training.
+- 💻 
+- 🚗 I'm a racing simulator and retro games enthusiast.
 - 🎴 I'm Pokémon TCG Collector and Player
 
 ![](https://github-readme-stats.vercel.app/api?username=manegrao&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=manegrao&show_icons=true&theme=tokyonight)
