@@ -7,7 +7,5 @@
 - 🚗 I'm a racing simulator and retro games enthusiast.
 - 🎴 I have a Pokémon TCG cards collection and I play sometimes
 
-<img src="grogu.gif" width="200px" align="right" style="margin-right:0px">
-
 ![](https://github-readme-stats.vercel.app/api?username=manegrao&show_icons=true&line_height=20&theme=tokyonight)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manegrao&layout=compact&show_icons=true&card_width=270&theme=tokyonight)
