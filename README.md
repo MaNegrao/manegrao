@@ -11,4 +11,4 @@
 - 🎴 I'm Pokémon TCG Collector and Player
 
 ![](https://github-readme-stats.vercel.app/api?username=manegrao&show_icons=true&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=manegrao&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=manegrao&layout=compact&show_icons=true&theme=tokyonight)
