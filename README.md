@@ -8,4 +8,4 @@
 - 🎴 I have a Pokémon TCG cards collection and I play sometimes
 
 ![](https://github-readme-stats.vercel.app/api?username=manegrao&show_icons=true&line_height=20&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=manegrao&layout=compact&show_icons=true&card_width=270&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=manegrao&layout=compact&show_icons=true&card_width=290&theme=tokyonight)
