@@ -4,7 +4,7 @@
 - 👨‍🎓 I Have a Master's Degree in Computer Science from the Federal University of Rio Grande do Sul
 - 👨‍🎓 I have a BSc degree in Computer Science from the Federal University of Fronteira Sul.
 - 🤙 My research areas are Human-Computer Interaction and Mixed Reality applied to medical scenarios.
-- 📑 My current project focuses on an MR environment for Laparoscopy Training.
+- 📑 My current project focuses on an MR environment for Traning Collaboration in MR.
 - 🚗 I'm a swimming enthusiast.
 
 ![](https://github-readme-stats.vercel.app/api?username=manegrao&show_icons=true&line_height=20&theme=tokyonight)
