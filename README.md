@@ -1,6 +1,6 @@
 <h2 align="center">Hello there ⚔️, I'm Matheus.</h2>
 
-- 🎓 I'm a PhD student in Computer Science at PPGC-UFRGS.
+- 🎓 I'm a PhD candidate in Computer Science at PPGC-UFRGS.
 - 👨‍🎓 I Have a Master's Degree in Computer Science from the Federal University of Rio Grande do Sul
 - 👨‍🎓 I have a BSc degree in Computer Science from the Federal University of Fronteira Sul.
 - 🤙 My research areas are Human-Computer Interaction and Mixed Reality applied to medical scenarios.
